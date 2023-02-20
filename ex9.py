@@ -1,0 +1,27 @@
+a="Anu01"
+x=a.isalpha()
+print(x)
+a="Anu12"
+x=a.isalnum()
+print(x)
+a='2'
+x=a.isdigit()
+print(x)
+a="ANU"
+x=a.islower()
+print(x)
+a="ANU"
+x=a.isupper()
+print(x)
+a="AnU"
+x=a.swapcase()
+print(x)
+a="1220"
+x=a.isnumeric()
+print(x)
+a="ANU"
+x=a.istitle()
+print(x)
+a="a n u"
+x=a.isspace()
+print(x)

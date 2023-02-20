@@ -1,0 +1,5 @@
+x=input("enter the name")
+a=name.isdigit()
+print(a)
+b=name.isalpha()
+print(b)

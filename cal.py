@@ -1,0 +1,10 @@
+x=int(input("Enter the value of x"))
+y=int(input("Enter the value of y"))
+add=x+y
+print("The sum of number is",add)
+diff=(x-y)
+print("The difference of number is",diff)
+mul=(x*y)
+print("The product of number is",mul)
+div=(x/y)
+print("The quotient of number is,div")
